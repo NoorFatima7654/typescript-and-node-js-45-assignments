@@ -1,0 +1,12 @@
+{
+  "name": "Typescript and node js 45 assignment",
+  "version": "1.0.0",
+  "description": "In this typescipt file we solved all 45 assignments of governor sindh it initative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Noor Fatima (Roll no:00439861)",
+  "license": "ISC"
+}
